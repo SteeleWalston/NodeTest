@@ -1,0 +1,23 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteeleWalston/NodeTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteeleWalston/NodeTest/issues"
+  },
+  "homepage": "https://github.com/SteeleWalston/NodeTest#readme",
+  "dependencies": {
+    "npm": "^5.8.0"
+  }
+}
