@@ -17,6 +17,4 @@ console.log("Server has started.");
 
 }
 
-
-
 exports.start = start;
